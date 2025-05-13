@@ -1,18 +1,18 @@
-# 🏅 Paralympics Power BI Dashboard
+#  Paralympics Power BI Dashboard
 
 This project showcases an interactive dashboard built in **Microsoft Power BI** to analyze the performance of countries, sports, and continents in the **Paralympic Games** over the years.
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 - **KPI Cards**:
-  - 🥇 Gold Medals: 11K
-  - 🥈 Silver Medals: 9.4K
-  - 🥉 Bronze Medals: 9K
-  - 🏅 Total Medals: 29K
-  - 🌍 Total Countries: 73
-  - 🏆 Top Gold Medal Country: USA
+  -  Gold Medals: 11K
+  -  Silver Medals: 9.4K
+  -  Bronze Medals: 9K
+  -  Total Medals: 29K
+  -  Total Countries: 73
+  -  Top Gold Medal Country: USA
 
 - **Visualizations Included**:
   - Bar Chart: Top 10 Sports by Medal Count
@@ -30,7 +30,7 @@ This project showcases an interactive dashboard built in **Microsoft Power BI** 
 
 ---
 
-## 🗂️ Dataset Columns
+##  Dataset Columns
 
 - `games_code`, `games_year`, `games_city`, `games_country`, `games_continent`
 - `games_start`, `games_end`, `games_season`
@@ -40,7 +40,7 @@ This project showcases an interactive dashboard built in **Microsoft Power BI** 
 
 ---
 
-## 📌 Insights Provided
+##  Insights Provided
 
 - Year-wise medal growth across decades
 - Most successful sports in terms of medal count
@@ -51,19 +51,19 @@ This project showcases an interactive dashboard built in **Microsoft Power BI** 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Microsoft Power BI
 
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![paralympics](https://github.com/user-attachments/assets/b9c48c05-9376-47e8-bf71-50419c3d21ab)
 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone or download this repository.
 2. Open the `Paralympics.pbix` file using Power BI Desktop.
@@ -71,7 +71,7 @@ This project showcases an interactive dashboard built in **Microsoft Power BI** 
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For feedback or collaboration:
 [sindhujak785@gmail.com]
